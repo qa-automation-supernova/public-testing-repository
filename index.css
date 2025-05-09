@@ -1,2 +1,8 @@
 /* Base tokens */
 @import "./base/color.css";
+
+/* Theme: Dark */
+@import "./dark/color.css";
+
+/* Theme: Light */
+@import "./light/color.css";
