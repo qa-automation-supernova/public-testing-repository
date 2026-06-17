@@ -3,10 +3,12 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-
+import { ShadowTokens } from "./shadow";
+import { BlurTokens } from "./blur";
 
 const tokens = {
-
+  ...ShadowTokens,
+  ...BlurTokens,
 };
 
 export default tokens;
