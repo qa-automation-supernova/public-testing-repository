@@ -1,0 +1,29 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --color-background-default: #ffffff;
+  --color-background-subtle: #f8fafc;
+  --color-foreground-default: #0b0f14;
+  --color-foreground-muted: #475669;
+  --color-border-default: #e2e8f0;
+  --color-accent: #7c3aed;
+  --color-critical: #b91c1c;
+  --color-warning: #d97706;
+  --color-brand-primary: #2563eb;
+  --color-brand-secondary: #0ea5e9;
+  --color-surface-canvas: #ffffff;
+  --color-surface-elevated: #f8fafc;
+  --color-surface-sunken: #f1f5f9;
+  --color-text-primary: #0b0f14;
+  --color-text-secondary: #334155;
+  --color-text-inverse: #ffffff;
+  --color-border-subtle: #e5e7eb;
+  --color-border-strong: #cbd5e1;
+  --color-state-focus: #2563eb66;
+  --color-state-success: #16a34a;
+  --color-state-warning: #f59e0b;
+  --color-state-danger: #dc2626;
+}
