@@ -1,0 +1,80 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --color-background-default: #ffffff;
+  --color-background-subtle: #f8fafc;
+  --color-foreground-default: #0b0f14;
+  --color-foreground-muted: #475669;
+  --color-border-default: #e2e8f0;
+  --color-accent: #7c3aed;
+  --color-critical: #b91c1c;
+  --color-warning: #d97706;
+  --color-brand-primary: #2563eb;
+  --color-brand-secondary: #0ea5e9;
+  --color-surface-canvas: #ffffff;
+  --color-surface-elevated: #f8fafc;
+  --color-surface-sunken: #f1f5f9;
+  --color-text-primary: #0b0f14;
+  --color-text-secondary: #334155;
+  --color-text-inverse: #ffffff;
+  --color-border-subtle: #e5e7eb;
+  --color-border-strong: #cbd5e1;
+  --color-state-focus: #2563eb66;
+  --color-state-success: #16a34a;
+  --color-state-warning: #f59e0b;
+  --color-state-danger: #dc2626;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-not-gray-gray-100: #f7f7f8;
+  --color-not-gray-gray-200: #ebebed;
+  --color-not-gray-gray-300: #d4d4d9;
+  --color-not-gray-gray-400: #ababb5;
+  --color-not-gray-gray-500: #71717f;
+  --color-not-gray-gray-600: #4e4e5a;
+  --color-not-gray-gray-700: #2a2a35;
+  --color-sky-blue-100: #eef4ff;
+  --color-sky-blue-200: #c7dcff;
+  --color-sky-blue-300: #94bbff;
+  --color-sky-blue-400: #5990ff;
+  --color-sky-blue-500: #1e4eb6;
+  --color-sky-blue-600: #1a4fcc;
+  --color-sky-blue-700: #0f338a;
+  --color-violet-violet-100: #f2eeff;
+  --color-violet-violet-200: #d9ccff;
+  --color-violet-violet-300: #b39dff;
+  --color-violet-violet-400: #8b65ff;
+  --color-violet-violet-500: #6d28d9;
+  --color-violet-violet-600: #5519b8;
+  --color-violet-violet-700: #350d7a;
+  --color-green-green-100: #edfaf3;
+  --color-green-green-200: #c3eed8;
+  --color-green-green-300: #86dcad;
+  --color-green-green-400: #126939;
+  --color-green-green-500: #16a35a;
+  --color-green-green-600: #0d7d43;
+  --color-green-green-700: #08502b;
+  --color-yellow-yellow-100: #fffbeb;
+  --color-yellow-yellow-200: #fef3c0;
+  --color-yellow-yellow-300: #fde479;
+  --color-yellow-yellow-400: #fbcc2a;
+  --color-yellow-yellow-500: #d49b05;
+  --color-yellow-yellow-600: #a37404;
+  --color-yellow-yellow-700: #6a4b02;
+  --color-red-red-100: #fff0ef;
+  --color-red-red-200: #fed5d2;
+  --color-red-red-300: #fda09a;
+  --color-red-red-400: #f85f57;
+  --color-red-red-500: #dc2626;
+  --color-red-red-600: #b01c1c;
+  --color-red-red-700: #6f1010;
+  --color-orange-orange-100: #fff4ed;
+  --color-orange-orange-200: #fedcbf;
+  --color-orange-orange-300: #fdba74;
+  --color-orange-orange-400: #f97316;
+  --color-orange-orange-500: #c25b0a;
+  --color-orange-orange-600: #9a4407;
+  --color-orange-orange-700: #622b04;
+}
