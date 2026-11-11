@@ -1,0 +1,15 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "shadow": {
+    "elevation": {
+      "shadow": {
+        "m": {
+          "value": "0px 2px 6px 0px #00000040"
+        },
+        "l": {
+          "value": "0px 4px 8px 0px #0000004d"
+        }
+      }
+    }
+  }
+}

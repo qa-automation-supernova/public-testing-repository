@@ -1,0 +1,13 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "gradient": {
+    "branding": {
+      "twilight": {
+        "value": "linear-gradient(90deg, #19426c 0%, #2c1f56 100%)"
+      },
+      "navigation": {
+        "value": "linear-gradient(90deg, #19426c 0%, #2c1f56 100%)"
+      }
+    }
+  }
+}
