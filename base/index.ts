@@ -3,10 +3,10 @@
  * To modify the format or content of this file, please contact your design system team. 
  */
 
-
+import { ColorTokens } from "./color";
 
 const tokens = {
-
+  ...ColorTokens,
 };
 
 export default tokens;
